@@ -1,4 +1,4 @@
-![logo](https://github.com/gama1221/alx-higher_level_programming/blob/master/python.png)
+![logo](https://github.com/gama1221/alx-higher_level_programming/blob/main/python.png)
 # Higher-level programming
 ## Welcome
 Thank you for visiting my programming projects. The majority of the code was written in Python3, with a few projects written in bash, MySQL, or JavaScript.
@@ -41,5 +41,5 @@ This repository contains introductory projects for higher-level programming. Top
 ## Author
 - Work is owned and maintained by **Getinet Amare Mekonnen** ([@gama1221](https://github.com/gama1221))
 - [Telegram](https://t.me/gama2112)
-- <img src="https://github.com/gama1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" style="border-radius:50%" height="48" width="48"> =>
+- <img src="https://github.com/gama1221/alx-higher_level_programming/blob/main/GetinetAmareMekonnen.png" align="left" style="border-radius:50%" height="48" width="48"> =>
 Make it work, make it right, make it fast
